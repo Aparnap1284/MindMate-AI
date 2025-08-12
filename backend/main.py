@@ -1,0 +1,1 @@
+print("MindMate-AI backend is running...")
