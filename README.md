@@ -57,6 +57,7 @@ Run Frontend
 
 cd frontend
 streamlit run app.py
+
 📌 Roadmap
  Backend setup with FastAPI
 
