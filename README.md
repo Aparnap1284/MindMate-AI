@@ -58,7 +58,8 @@ Run Frontend
 cd frontend
 streamlit run app.py
 
-📌 Roadmap
+# 📌 Roadmap
+
  Backend setup with FastAPI
 
  AI model integration (Vertex AI + HuggingFace)
