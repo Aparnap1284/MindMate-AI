@@ -38,7 +38,7 @@ Students and young adults aged **15–25** seeking a private, non-judgmental men
 ### Installation
 
 # Clone this repo
-git clone https://github.com/YourUsername/MindMate-AI.git
+git clone https://github.com/Aparnap1284/MindMate-AI.git
 
 # Go to project folder
 cd MindMate-AI
@@ -57,12 +57,16 @@ Run Frontend
 
 cd frontend
 streamlit run app.py
-
 📌 Roadmap
-Backend setup with FastAPI
-AI model integration (Vertex AI + HuggingFace)
-Firestore database for mood history
-Streamlit frontend with chat UI
-Crisis detection & helpline integration
-Deployment on Google Cloud Run
+ Backend setup with FastAPI
+
+ AI model integration (Vertex AI + HuggingFace)
+
+ Firestore database for mood history
+
+ Streamlit frontend with chat UI
+
+ Crisis detection & helpline integration
+
+ Deployment on Google Cloud Run
 
