@@ -1,6 +1,6 @@
 # 🧠 MindMate AI  
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)  
-[![GitHub stars](https://img.shields.io/github/stars/username/MindMate-AI?style=social)](https://github.com/username/MindMate-AI/stargazers)  
+[![GitHub stars](https://img.shields.io/github/stars/username/MindMate-AI?style=social)](https://github.com/Aparnap1284/MindMate-AI.git)  
 
 > **An AI-powered companion** that supports youth mental wellness through empathetic conversations, mood tracking, and personalized coping suggestions — built for Indian youth aged 15–25.
 
@@ -55,7 +55,7 @@ Combines **empathetic AI responses** with **real-time mood tracking** and **earl
 - HuggingFace account *(optional for hosted models)*
 
 ### Installation
-
+```bash
 # Clone the repo
 git clone https://github.com/Aparnap1284/MindMate-AI.git
 
